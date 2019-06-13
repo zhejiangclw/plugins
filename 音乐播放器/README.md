@@ -8,6 +8,10 @@
 
 可直接打开music.html看效果。
 
+## 效果图
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2019061209372622.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5OTc0MzMx,size_16,color_FFFFFF,t_70)
+
+
 ## 功能
 
 1. 封面，歌名，专辑，作者
@@ -33,5 +37,3 @@ b站音乐播放器：https://www.bilibili.com/audio/home/?type=10
 
 audio的属性及方法：https://www.jianshu.com/p/1fe701c9179f
 
-## 效果图
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2019061209372622.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5OTc0MzMx,size_16,color_FFFFFF,t_70)
